@@ -8,34 +8,5 @@ public class Hello {
         short b = -14244;
         System.out.println(b + age);
         System.out.println(age);
-        int x = 999999999;
-        System.out.println(x);
-        long y = -999999944499444444L;
-        System.out.println(y);
-        double dd = 432.222;
-        System.out.println(dd);
-        float ff = 44242.245F;
-        System.out.println(ff);
-        boolean bool = false;
-        System.out.println(bool);
-        b = 22;
-        System.out.println(b);
-        char bari = '\u054f';
-        char bari1 = '\u053b';
-        char bari2 = '\u0533';
-        char bari3 = '\u0550';
-        char bari4 = '\u0531';
-        char bari5 = '\u0546';
-        System.out.println(bari);
-        System.out.println(bari1);
-        System.out.println(bari2);
-        System.out.println(bari3);
-        System.out.println(bari4);
-        System.out.println(bari5);
-        String barev = " Barev";
-        System.out.println(barev);
-        String anun = "Tigran ";
-        String azganun = " Geogdzhayan";
-        System.out.println(azganun + bari + bari1 + bari2 + bari3 + bari4 + bari5);
     }
 }
